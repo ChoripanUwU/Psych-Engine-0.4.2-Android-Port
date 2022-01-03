@@ -472,25 +472,25 @@ class TitleState extends MusicBeatState
 				case 3:
 					addMoreText('Shadow Mario', 45);
 					addMoreText('RiverOaken', 45);
-				// credTextShit.text += '\npresent...';
+				// credTextShit.text += '\npresenta...';
 				// credTextShit.addText();
 				case 4:
 					deleteCoolText();
 				// credTextShit.visible = false;
-				// credTextShit.text = 'In association \nwith';
+				// credTextShit.text = 'un mod echo \nPor';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['This is a mod to'], -60);
+					createCoolText(['xd'], -60);
 				case 7:
-					addMoreText('This game right below lol', -60);
+					addMoreText('Por este chico', -60);
 					logoSpr.visible = true;
-				// credTextShit.text += '\nNewgrounds';
+				// credTextShit.text += '\nXd';
 				case 8:
 					deleteCoolText();
 					logoSpr.visible = false;
 				// credTextShit.visible = false;
 
-				// credTextShit.text = 'Shoutouts Tom Fulp';
+				// credTextShit.text = 'God Tankman XD';
 				// credTextShit.screenCenter();
 				case 9:
 					createCoolText([curWacky[0]]);
@@ -501,16 +501,16 @@ class TitleState extends MusicBeatState
 				case 12:
 					deleteCoolText();
 				// credTextShit.visible = false;
-				// credTextShit.text = "Friday";
+				// credTextShit.text = "Vs";
 				// credTextShit.screenCenter();
 				case 13:
-					addMoreText('Friday');
+					addMoreText('Fem');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Night');
+					addMoreText('Bou');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('Bunny'); // credTextShit.text += '\nFull Ass';
 
 				case 16:
 					skipIntro();
